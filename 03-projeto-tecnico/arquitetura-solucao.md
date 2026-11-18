@@ -4,4 +4,4 @@ A proposta descreve a instalação física de um sistema de CFTV IP com câmeras
 
 Este arquivo não define endereçamento IP, VLANs, switches, NVR, VMS ou configuração lógica, pois esses serviços estão expressamente fora do escopo comercial recebido.
 
-A arquitetura física detalhada deverá ser transcrita das pranchas técnicas e validada em campo.
+
