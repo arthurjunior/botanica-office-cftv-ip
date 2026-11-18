@@ -67,4 +67,4 @@ A proposta identifica um coordenador técnico, mas não detalha formalmente sua 
 | Contratado / coordenação técnica | Arthur Carvalho Gomes Junior | A confirmar | A confirmar |
 
 ---
-**Nota:** este TAP é uma minuta acadêmica baseada na proposta recebida. Não substitui contrato ou autorização formal assinada.
+
