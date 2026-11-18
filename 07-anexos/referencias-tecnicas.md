@@ -6,4 +6,4 @@
 ## Pranchas citadas na proposta
 - 117-CAB-LO-000 a 117-CAB-LO-021.
 
-As pranchas foram citadas, mas não estavam incluídas no documento recebido nesta conversa.
+
