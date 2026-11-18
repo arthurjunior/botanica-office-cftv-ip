@@ -14,4 +14,5 @@
 - Disponibilidade de energia nas áreas técnicas.
 - Materiais efetivamente entregues em obra.
 
-**Importante:** as pranchas não foram incluídas no arquivo recebido; portanto, este levantamento não substitui a vistoria nem a análise dos desenhos.
+
+
